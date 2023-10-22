@@ -1,2 +1,3 @@
 # Automation-Java
-Adding my learnings into the repo
+This repository is a learning project for Automation.
+Details are updated from local
